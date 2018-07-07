@@ -1,7 +1,7 @@
 {
   "name": "room_share",
   "version": "1.0.0",
-  "description": "To manage monly expense",
+  "description": "Monthly expense calculate",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
